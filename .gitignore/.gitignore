@@ -1,1 +1,5 @@
+/nbproject/private/
 wp-config.php
+wp-content/uploads
+DPA
+.DS_Store
